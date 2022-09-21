@@ -25,5 +25,3 @@ def add_fractions(a, b, c, d):
     upper_number = int(upper_number/v2)
     lower_number = int(lower_number/v2)
     return (upper_number,lower_number) # Напишите тело функции и правильный return
-
-print(add_fractions(1,2,1,2))
